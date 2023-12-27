@@ -25,7 +25,7 @@ I'm a passionate developer with an interest in Frontend Development and integrat
 
 ## 📞 Get in Touch
 - *Portfolio*: [Portfolio](https://github.com/abhishek09827/abhishek09827)
-- *LinkedIn*: [Abhishek Kaushik](https://www.linkedin.com/in/divyansh-mishra-0a3168229)
+- *LinkedIn*: [Divyansh Mishra](https://www.linkedin.com/in/divyansh-mishra-0a3168229)
 - *LeetCode*: [Profile](https://leetcode.com/abhishekk09827/)
 
 [![@divyansh0's Holopin board](https://holopin.me/divyansh0)](https://holopin.io/@divyansh0)
