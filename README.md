@@ -3,7 +3,7 @@
 I'm a passionate developer with an interest in Frontend Development and integrating Machine Learning to make applications smarter. 🚀
 
 - 🔭 Currently working on a talent exquisation website with AI.
-- 🌱 Deep diving into= LLM topics and always excited about the latest ML updates.
+- 🌱 Deep diving into LLM topics and always excited about the latest ML updates.
 - 🤖 Experimenting with new Machine Learning models and integrating them into web services using Flask.
 - 📚 Continuously learning about the intersection of React Development and Machine Learning.
 - 🌍 Based in India.
